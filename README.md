@@ -41,3 +41,11 @@ https://github.com/user-attachments/assets/066bc83e-deeb-4fcc-8e06-ca97491e5be2
    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  </div>
+
+AUTORES 😍
+
+
+
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/202871627?v=4" width=115><br><sub>Diego Emanoel Pereira Domingues</sub>](https://github.com/DiegoByPixar)
+ | :---: 
